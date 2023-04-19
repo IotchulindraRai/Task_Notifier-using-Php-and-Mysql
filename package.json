@@ -1,9 +1,9 @@
 {
   "name": "admin-lte",
   "description": "Responsive open source admin dashboard and control panel.",
-  "version": "3.2.0",
+  "version": "1.0",
   "license": "MIT",
-  "author": "Colorlib <https://colorlib.com>",
+  "author": "Chulindra>",
   "main": "dist/js/adminlte.min.js",
   "scripts": {
     "bundlewatch": "bundlewatch --config .bundlewatch.config.json",
